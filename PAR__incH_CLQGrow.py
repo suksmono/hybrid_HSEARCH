@@ -3,7 +3,7 @@
 # Created: on 13-Aug-2018, updated 15-Aug-2018
 # Author: Suksmono@{STEI-ITB, MDR Inc.}
 # Summary: By reperesenting binary vectors as node, we search M-orthoset or
-#          M-order clique by growing a random graph randomly
+#          M-order clique by growing a random graph
 # -----------------------------------------------------------------------------
 #    ALGORITHM
 # -----------------------------------------------------------------------------
